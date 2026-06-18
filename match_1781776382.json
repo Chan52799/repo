@@ -1,0 +1,27 @@
+{
+  "matchid": 1781776382,
+  "team1": {
+    "name": "Team Chandler",
+    "players": {
+      "76561198260126260": "Chandler",
+      "76561198714207118": "TestEnvironment"
+    }
+  },
+  "team2": {
+    "name": "Team Tiski",
+    "players": {
+      "76561198809602562": "Tiski",
+      "76561198920156745": "Fatguy"
+    }
+  },
+  "maplist": [
+    "3165559377"
+  ],
+  "num_maps": 1,
+  "wingman": true,
+  "players_per_team": 2,
+  "min_players_to_ready": 2,
+  "map_sides": [
+    "team1_ct"
+  ]
+}
