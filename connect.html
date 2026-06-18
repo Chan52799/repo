@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Match Server</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: #1e1f22;
+      color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      flex-direction: column;
+      gap: 12px;
+      text-align: center;
+    }
+    .icon { font-size: 2.5em; }
+    .msg { font-size: 1.1em; color: #b5bac1; }
+  </style>
+</head>
+<body>
+  <div class="icon" id="icon">â³</div>
+  <div class="msg" id="msg">Working...</div>
+  <script>
+    (async () => {
+      const p = new URLSearchParams(location.search);
+      const host = p.get('host');
+      const port = p.get('port');
+      const action = p.get('action');
+
+      if (!host || !port) {
+        document.getElementById('msg').textContent = 'Invalid link.';
+        return;
+      }
+
+      const cmd = `connect ${host}:${port}`;
+
+      try {
+        await navigator.clipboard.writeText(cmd);
+      } catch {
+        // fallback for browsers that block clipboard on load
+        const ta = Object.assign(document.createElement('textarea'), {
+          value: cmd,
+          style: 'position:fixed;opacity:0'
+        });
+        document.body.appendChild(ta);
+        ta.focus();
+        ta.select();
+        document.execCommand('copy');
+        document.body.removeChild(ta);
+      }
+
+      document.getElementById('icon').textContent = 'âœ…';
+      document.getElementById('msg').textContent = action === 'launch'
+        ? 'Launching CS2 and connecting...'
+        : 'Connect command copied â€” paste it in CS2 console.';
+
+      if (action === 'launch') {
+        location.href = `steam://run/730//+connect ${host}:${port}`;
+      }
+
+      setTimeout(() => window.close(), 2500);
+    })();
+  </script>
+</body>
+</html>
