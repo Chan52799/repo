@@ -1,0 +1,28 @@
+{
+  "matchid": 1781775687928,
+  "team1": {
+    "name": "Team Chandler",
+    "players": {
+      "76561198260126260": "Chandler",
+      "76561198714207118": "TestEnvironment"
+    }
+  },
+  "team2": {
+    "name": "Team Cakir",
+    "players": {
+      "76561198148048148": "Cakir",
+      "76561198168331059": "Claasic"
+    }
+  },
+  "maplist": [
+    "3536622725"
+  ],
+  "num_maps": 1,
+  "wingman": true,
+  "players_per_team": 2,
+  "min_players_to_ready": 2,
+  "clinch_series": true,
+  "map_sides": [
+    "team1_ct"
+  ]
+}
