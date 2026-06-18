@@ -1,0 +1,32 @@
+[
+  {
+    "id": "m1",
+    "label": "Brewery",
+    "value": "3070290240"
+  },
+  {
+    "id": "m2",
+    "label": "Poseidon",
+    "value": "3522144043"
+  },
+  {
+    "id": "m3",
+    "label": "Sanctum",
+    "value": "3643331442"
+  },
+  {
+    "id": "m4",
+    "label": "Whistle",
+    "value": "3308613773"
+  },
+  {
+    "id": "m5",
+    "label": "Rooftop",
+    "value": "3536622725"
+  },
+  {
+    "id": "m6",
+    "label": "Memento",
+    "value": "3165559377"
+  }
+]
