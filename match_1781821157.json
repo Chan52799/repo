@@ -1,0 +1,27 @@
+{
+  "matchid": 1781821157,
+  "team1": {
+    "name": "Team Fusiion",
+    "players": {
+      "76561198262215692": "Fusiion",
+      "76561198057325155": "Edge"
+    }
+  },
+  "team2": {
+    "name": "Team Chandler",
+    "players": {
+      "76561198260126260": "Chandler",
+      "76561198714207118": "TestEnvironment"
+    }
+  },
+  "maplist": [
+    "3408790618"
+  ],
+  "num_maps": 1,
+  "wingman": true,
+  "players_per_team": 2,
+  "min_players_to_ready": 2,
+  "map_sides": [
+    "team2_ct"
+  ]
+}
