@@ -1,0 +1,28 @@
+{
+  "matchid": 1781775116082,
+  "team1": {
+    "name": "Team Jared",
+    "players": {
+      "76561198090734551": "Jared",
+      "76561198262416232": "Crisp"
+    }
+  },
+  "team2": {
+    "name": "Team Cakir",
+    "players": {
+      "76561198148048148": "Cakir",
+      "76561198168331059": "Claasic"
+    }
+  },
+  "maplist": [
+    "3643331442"
+  ],
+  "num_maps": 1,
+  "wingman": true,
+  "players_per_team": 2,
+  "min_players_to_ready": 2,
+  "clinch_series": true,
+  "map_sides": [
+    "team1_ct"
+  ]
+}
