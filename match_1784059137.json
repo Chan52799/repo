@@ -1,0 +1,31 @@
+{
+  "matchid": 1784059137,
+  "team1": {
+    "name": "Team Chan",
+    "players": {
+      "76561198260126260": "Chandler",
+      "76561198138432478": "Sloppy"
+    }
+  },
+  "team2": {
+    "name": "Test1234",
+    "players": {
+      "76561198317948287": "Empyreus",
+      "76561198090056999": "Poko"
+    }
+  },
+  "maplist": [
+    "3070290240",
+    "3536622725",
+    "3165559377"
+  ],
+  "num_maps": 3,
+  "wingman": true,
+  "players_per_team": 2,
+  "min_players_to_ready": 2,
+  "map_sides": [
+    "knife",
+    "knife",
+    "knife"
+  ]
+}
