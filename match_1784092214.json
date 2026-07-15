@@ -1,0 +1,31 @@
+{
+  "matchid": 1784092214,
+  "team1": {
+    "name": "Team Laboom",
+    "players": {
+      "76561198358246911": "Laboom",
+      "76561198089583895": "no1"
+    }
+  },
+  "team2": {
+    "name": "Team Hambooga",
+    "players": {
+      "76561198147116054": "Hambooga",
+      "76561198273297601": "Skye"
+    }
+  },
+  "maplist": [
+    "3408790618",
+    "3536622725",
+    "3522144043"
+  ],
+  "num_maps": 3,
+  "wingman": true,
+  "players_per_team": 2,
+  "min_players_to_ready": 2,
+  "map_sides": [
+    "team2_ct",
+    "team1_ct",
+    "knife"
+  ]
+}
