@@ -1,0 +1,31 @@
+{
+  "matchid": 1784261815,
+  "team1": {
+    "name": "Team Bagel",
+    "players": {
+      "76561198315699479": "Bagel",
+      "76561198131414911": "C0C0"
+    }
+  },
+  "team2": {
+    "name": "Team Shawta",
+    "players": {
+      "76561198065442245": "Shawta",
+      "76561198199165271": "Twigs"
+    }
+  },
+  "maplist": [
+    "3408790618",
+    "3165559377",
+    "3070290240"
+  ],
+  "num_maps": 3,
+  "wingman": true,
+  "players_per_team": 2,
+  "min_players_to_ready": 2,
+  "map_sides": [
+    "team1_ct",
+    "team2_ct",
+    "knife"
+  ]
+}
