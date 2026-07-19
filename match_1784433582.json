@@ -1,0 +1,27 @@
+{
+  "matchid": 1784433582,
+  "team1": {
+    "name": "Team Djay",
+    "players": {
+      "76561197964201626": "Djay",
+      "76561198089723858": "Sandman"
+    }
+  },
+  "team2": {
+    "name": "Team Stx",
+    "players": {
+      "76561198079420802": "Stx",
+      "76561198197875274": "Raven"
+    }
+  },
+  "maplist": [
+    "3536622725"
+  ],
+  "num_maps": 1,
+  "wingman": true,
+  "players_per_team": 2,
+  "min_players_to_ready": 2,
+  "map_sides": [
+    "team2_ct"
+  ]
+}
