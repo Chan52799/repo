@@ -1,0 +1,27 @@
+{
+  "matchid": 1784520016,
+  "team1": {
+    "name": "Team Freshie",
+    "players": {
+      "76561198336814871": "freshie",
+      "76561198802655267": "ogwizard"
+    }
+  },
+  "team2": {
+    "name": "Team Drop",
+    "players": {
+      "76561198987550079": "Drop",
+      "76561198026803455": "2Panic"
+    }
+  },
+  "maplist": [
+    "3165559377"
+  ],
+  "num_maps": 1,
+  "wingman": true,
+  "players_per_team": 2,
+  "min_players_to_ready": 2,
+  "map_sides": [
+    "team2_ct"
+  ]
+}
