@@ -1,0 +1,27 @@
+{
+  "matchid": 1784521084,
+  "team1": {
+    "name": "Team Lyeku",
+    "players": {
+      "76561198800009453": "lyeku",
+      "76561198124872474": "hyza"
+    }
+  },
+  "team2": {
+    "name": "Team Stx",
+    "players": {
+      "76561198079420802": "Stx",
+      "76561198197875274": "raven"
+    }
+  },
+  "maplist": [
+    "3522144043"
+  ],
+  "num_maps": 1,
+  "wingman": true,
+  "players_per_team": 2,
+  "min_players_to_ready": 2,
+  "map_sides": [
+    "team2_ct"
+  ]
+}
