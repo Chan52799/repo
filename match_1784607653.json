@@ -1,0 +1,27 @@
+{
+  "matchid": 1784607653,
+  "team1": {
+    "name": "Team Cakir",
+    "players": {
+      "76561198148048148": "Cakir",
+      "76561198168331059": "claasic"
+    }
+  },
+  "team2": {
+    "name": "Team Stx",
+    "players": {
+      "76561198079420802": "Stx",
+      "76561198197875274": "raven"
+    }
+  },
+  "maplist": [
+    "3070290240"
+  ],
+  "num_maps": 1,
+  "wingman": true,
+  "players_per_team": 2,
+  "min_players_to_ready": 2,
+  "map_sides": [
+    "team1_ct"
+  ]
+}
