@@ -1,0 +1,27 @@
+{
+  "matchid": 1784608898,
+  "team1": {
+    "name": "Team Drop",
+    "players": {
+      "76561198987550079": "Drop",
+      "76561198026803455": "2Panic"
+    }
+  },
+  "team2": {
+    "name": "Team peeping",
+    "players": {
+      "76561198258800768": "consti",
+      "76561198452804081": "peeping"
+    }
+  },
+  "maplist": [
+    "3536622725"
+  ],
+  "num_maps": 1,
+  "wingman": true,
+  "players_per_team": 2,
+  "min_players_to_ready": 2,
+  "map_sides": [
+    "team1_ct"
+  ]
+}
