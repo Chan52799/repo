@@ -1,0 +1,27 @@
+{
+  "matchid": 1784694054,
+  "team1": {
+    "name": "Team freshie",
+    "players": {
+      "76561198336814871": "freshie",
+      "76561198802655267": "ogwizard"
+    }
+  },
+  "team2": {
+    "name": "Team peeping",
+    "players": {
+      "76561198258800768": "consti",
+      "76561198452804081": "peeping"
+    }
+  },
+  "maplist": [
+    "3522144043"
+  ],
+  "num_maps": 1,
+  "wingman": true,
+  "players_per_team": 2,
+  "min_players_to_ready": 2,
+  "map_sides": [
+    "team1_ct"
+  ]
+}
