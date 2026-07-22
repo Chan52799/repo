@@ -1,0 +1,27 @@
+{
+  "matchid": 1784692985,
+  "team1": {
+    "name": "Team Jared",
+    "players": {
+      "76561198090734551": "Jared",
+      "76561198262416232": "Crisp"
+    }
+  },
+  "team2": {
+    "name": "Team Jonji",
+    "players": {
+      "76561198074941114": "JonjiJLC",
+      "76561198299495675": "Maxuel"
+    }
+  },
+  "maplist": [
+    "3070290240"
+  ],
+  "num_maps": 1,
+  "wingman": true,
+  "players_per_team": 2,
+  "min_players_to_ready": 2,
+  "map_sides": [
+    "team1_ct"
+  ]
+}
