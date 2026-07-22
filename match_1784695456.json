@@ -1,0 +1,27 @@
+{
+  "matchid": 1784695456,
+  "team1": {
+    "name": "Team louie",
+    "players": {
+      "76561198095885261": "louie",
+      "76561198151317560": "WUMBO"
+    }
+  },
+  "team2": {
+    "name": "Team FRIZZYY",
+    "players": {
+      "76561197982819923": "FRIZZYY",
+      "76561197961136645": "LittleBEER"
+    }
+  },
+  "maplist": [
+    "3681511672"
+  ],
+  "num_maps": 1,
+  "wingman": true,
+  "players_per_team": 2,
+  "min_players_to_ready": 2,
+  "map_sides": [
+    "team2_ct"
+  ]
+}
