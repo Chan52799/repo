@@ -1,0 +1,27 @@
+{
+  "matchid": 1784782761,
+  "team1": {
+    "name": "Team neight",
+    "players": {
+      "76561198997404820": "neight",
+      "76561198082046495": "cmrn"
+    }
+  },
+  "team2": {
+    "name": "Team freshie",
+    "players": {
+      "76561198336814871": "freshie",
+      "76561198802655267": "ogwizard"
+    }
+  },
+  "maplist": [
+    "3536622725"
+  ],
+  "num_maps": 1,
+  "wingman": true,
+  "players_per_team": 2,
+  "min_players_to_ready": 2,
+  "map_sides": [
+    "team2_ct"
+  ]
+}
