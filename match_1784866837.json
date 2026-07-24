@@ -1,0 +1,27 @@
+{
+  "matchid": 1784866837,
+  "team1": {
+    "name": "Team neight",
+    "players": {
+      "76561198997404820": "neight",
+      "76561198082046495": "cmrn"
+    }
+  },
+  "team2": {
+    "name": "Team peeping",
+    "players": {
+      "76561198258800768": "consti",
+      "76561198452804081": "peeping"
+    }
+  },
+  "maplist": [
+    "3681511672"
+  ],
+  "num_maps": 1,
+  "wingman": true,
+  "players_per_team": 2,
+  "min_players_to_ready": 2,
+  "map_sides": [
+    "team2_ct"
+  ]
+}
