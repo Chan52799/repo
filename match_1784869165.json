@@ -1,0 +1,27 @@
+{
+  "matchid": 1784869165,
+  "team1": {
+    "name": "Team Empathy",
+    "players": {
+      "76561197996934983": "empathy",
+      "76561198001782167": "Fawx"
+    }
+  },
+  "team2": {
+    "name": "Team Stx",
+    "players": {
+      "76561198079420802": "Stx",
+      "76561198197875274": "raven"
+    }
+  },
+  "maplist": [
+    "3408790618"
+  ],
+  "num_maps": 1,
+  "wingman": true,
+  "players_per_team": 2,
+  "min_players_to_ready": 2,
+  "map_sides": [
+    "team1_ct"
+  ]
+}
