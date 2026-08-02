@@ -1,0 +1,27 @@
+{
+  "matchid": 1785644419,
+  "team1": {
+    "name": "Team Fruitcup",
+    "players": {
+      "76561198339361458": "Fruitcup",
+      "76561198143458644": "Msaia"
+    }
+  },
+  "team2": {
+    "name": "Team lyeku",
+    "players": {
+      "76561198800009453": "lyeku",
+      "76561198124872474": "hyza"
+    }
+  },
+  "maplist": [
+    "3536622725"
+  ],
+  "num_maps": 1,
+  "wingman": true,
+  "players_per_team": 2,
+  "min_players_to_ready": 2,
+  "map_sides": [
+    "team1_ct"
+  ]
+}
