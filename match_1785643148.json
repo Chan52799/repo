@@ -1,0 +1,27 @@
+{
+  "matchid": 1785643148,
+  "team1": {
+    "name": "Team HAMBOOGA",
+    "players": {
+      "76561198147116054": "HAMBOOGA",
+      "76561198273297601": "Skye"
+    }
+  },
+  "team2": {
+    "name": "Team djay",
+    "players": {
+      "76561197964201626": "djay",
+      "76561198089723858": "sandman"
+    }
+  },
+  "maplist": [
+    "3681511672"
+  ],
+  "num_maps": 1,
+  "wingman": true,
+  "players_per_team": 2,
+  "min_players_to_ready": 2,
+  "map_sides": [
+    "team2_ct"
+  ]
+}
