@@ -1,0 +1,27 @@
+{
+  "matchid": 1785817320,
+  "team1": {
+    "name": "Team Trick",
+    "players": {
+      "76561198138033226": "Trick",
+      "76561198127408500": "snufaffu"
+    }
+  },
+  "team2": {
+    "name": "Team Drop",
+    "players": {
+      "76561198987550079": "Drop",
+      "76561198026803455": "2Panic"
+    }
+  },
+  "maplist": [
+    "3070290240"
+  ],
+  "num_maps": 1,
+  "wingman": true,
+  "players_per_team": 2,
+  "min_players_to_ready": 2,
+  "map_sides": [
+    "team1_ct"
+  ]
+}
