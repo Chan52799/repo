@@ -1,0 +1,27 @@
+{
+  "matchid": 1786422542,
+  "team1": {
+    "name": "Team Cakir",
+    "players": {
+      "76561198148048148": "Cakir",
+      "76561198168331059": "claasic"
+    }
+  },
+  "team2": {
+    "name": "Team Drop",
+    "players": {
+      "76561198987550079": "Drop",
+      "76561198026803455": "2Panic"
+    }
+  },
+  "maplist": [
+    "3165559377"
+  ],
+  "num_maps": 1,
+  "wingman": true,
+  "players_per_team": 2,
+  "min_players_to_ready": 2,
+  "map_sides": [
+    "team1_ct"
+  ]
+}
