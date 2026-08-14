@@ -1,0 +1,27 @@
+{
+  "matchid": 1786694361,
+  "team1": {
+    "name": "Team peeping",
+    "players": {
+      "76561198258800768": "consti",
+      "76561198452804081": "peeping"
+    }
+  },
+  "team2": {
+    "name": "Team Fruitcupx",
+    "players": {
+      "76561198339361458": "Fruitcupx",
+      "76561198143458644": "Msaia"
+    }
+  },
+  "maplist": [
+    "3522144043"
+  ],
+  "num_maps": 1,
+  "wingman": true,
+  "players_per_team": 2,
+  "min_players_to_ready": 2,
+  "map_sides": [
+    "team2_ct"
+  ]
+}
