@@ -1,0 +1,27 @@
+{
+  "matchid": 1786680541,
+  "team1": {
+    "name": "Team Stx",
+    "players": {
+      "76561198079420802": "Stx",
+      "76561198197875274": "raven"
+    }
+  },
+  "team2": {
+    "name": "Team Bagel",
+    "players": {
+      "76561198315699479": "Bagel",
+      "76561198131414911": "C0C0"
+    }
+  },
+  "maplist": [
+    "3408790618"
+  ],
+  "num_maps": 1,
+  "wingman": true,
+  "players_per_team": 2,
+  "min_players_to_ready": 2,
+  "map_sides": [
+    "team2_ct"
+  ]
+}
