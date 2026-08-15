@@ -1,0 +1,27 @@
+{
+  "matchid": 1786768306,
+  "team1": {
+    "name": "Team Laboom",
+    "players": {
+      "76561198358246911": "Laboom",
+      "76561198089583895": "no1nx"
+    }
+  },
+  "team2": {
+    "name": "Team Fruitcupx",
+    "players": {
+      "76561198339361458": "Fruitcupx",
+      "76561198143458644": "Msaia"
+    }
+  },
+  "maplist": [
+    "3536622725"
+  ],
+  "num_maps": 1,
+  "wingman": true,
+  "players_per_team": 2,
+  "min_players_to_ready": 2,
+  "map_sides": [
+    "team2_ct"
+  ]
+}
