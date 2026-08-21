@@ -1,0 +1,27 @@
+{
+  "matchid": 1787285693,
+  "team1": {
+    "name": "Team Bagel",
+    "players": {
+      "76561198315699479": "Bagel",
+      "76561198131414911": "C0C0"
+    }
+  },
+  "team2": {
+    "name": "Team Fruitcupx",
+    "players": {
+      "76561198339361458": "Fruitcupx",
+      "76561198143458644": "Msaia"
+    }
+  },
+  "maplist": [
+    "3408790618"
+  ],
+  "num_maps": 1,
+  "wingman": true,
+  "players_per_team": 2,
+  "min_players_to_ready": 2,
+  "map_sides": [
+    "team1_ct"
+  ]
+}
