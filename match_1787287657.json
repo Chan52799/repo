@@ -1,0 +1,27 @@
+{
+  "matchid": 1787287657,
+  "team1": {
+    "name": "Team Tiski",
+    "players": {
+      "76561198809602562": "Tiski",
+      "76561198920156745": "fatguy"
+    }
+  },
+  "team2": {
+    "name": "Team peeping",
+    "players": {
+      "76561198258800768": "consti",
+      "76561198452804081": "peeping"
+    }
+  },
+  "maplist": [
+    "3070290240"
+  ],
+  "num_maps": 1,
+  "wingman": true,
+  "players_per_team": 2,
+  "min_players_to_ready": 2,
+  "map_sides": [
+    "team1_ct"
+  ]
+}
