@@ -1,0 +1,27 @@
+{
+  "matchid": 1787545610,
+  "team1": {
+    "name": "Team Fruitcupx",
+    "players": {
+      "76561198339361458": "Fruitcupx",
+      "76561198143458644": "Msaia"
+    }
+  },
+  "team2": {
+    "name": "Team Trick",
+    "players": {
+      "76561198138033226": "Trick",
+      "76561198127408500": "snufaffu"
+    }
+  },
+  "maplist": [
+    "3165559377"
+  ],
+  "num_maps": 1,
+  "wingman": true,
+  "players_per_team": 2,
+  "min_players_to_ready": 2,
+  "map_sides": [
+    "team2_ct"
+  ]
+}
