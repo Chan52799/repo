@@ -1,0 +1,27 @@
+{
+  "matchid": 1789618343,
+  "team1": {
+    "name": "Team Bagel",
+    "players": {
+      "76561198315699479": "Bagel",
+      "76561198131414911": "C0C0"
+    }
+  },
+  "team2": {
+    "name": "Team Trick",
+    "players": {
+      "76561198138033226": "Trick",
+      "76561198127408500": "snufaffu"
+    }
+  },
+  "maplist": [
+    "3536622725"
+  ],
+  "num_maps": 1,
+  "wingman": true,
+  "players_per_team": 2,
+  "min_players_to_ready": 2,
+  "map_sides": [
+    "team1_ct"
+  ]
+}
