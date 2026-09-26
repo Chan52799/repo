@@ -1,0 +1,25 @@
+{
+  "matchid": 1790453460,
+  "team1": {
+    "name": "TestChan",
+    "players": {
+      "76561198260126260": "Chandler"
+    }
+  },
+  "team2": {
+    "name": "TestTeamTestTestTest",
+    "players": {
+      "76561198714207118": "TestEnvironment"
+    }
+  },
+  "maplist": [
+    "3522144043"
+  ],
+  "num_maps": 1,
+  "wingman": true,
+  "players_per_team": 1,
+  "min_players_to_ready": 1,
+  "map_sides": [
+    "team1_ct"
+  ]
+}
